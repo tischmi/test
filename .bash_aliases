@@ -1,3 +1,4 @@
+# aliases for bash
 alias la='ls -alF --color=auto'
 alias ll='ls -ali'
 
