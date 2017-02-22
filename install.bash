@@ -1,2 +1,2 @@
 #!/bin/bash
-cp .bash_aliases ..
+cp .bash_aliases ~
