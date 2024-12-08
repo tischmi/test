@@ -1,4 +1,4 @@
-# aliases for bash
+# aliases for ti's bash
 alias la='ls -alF --color=auto'
 alias ll='ls -alh'
 
